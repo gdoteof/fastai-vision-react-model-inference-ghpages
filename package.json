@@ -1,6 +1,6 @@
 {
   "name": "fastai-vision-react-model-inference-ghpages",
-  "homepage": "https://gdoteof.github.io/gdoteof/fastai-vision-react-model-inference-ghpages/",
+  "homepage": "https://gdoteof.github.io/fastai-vision-react-model-inference-ghpages/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
