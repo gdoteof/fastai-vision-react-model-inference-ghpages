@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gdoteof/fastai-vision-react-model-inference-ghpages/precache-manifest.42a3b393e70f792072556a025ea35426.js"
+  "/fastai-vision-react-model-inference-ghpages/precache-manifest.667b967e0cc9e6e85530404a5f59f1e1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/gdoteof/fastai-vision-react-model-inference-ghpages/index.html", {
+workbox.routing.registerNavigationRoute("/fastai-vision-react-model-inference-ghpages/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

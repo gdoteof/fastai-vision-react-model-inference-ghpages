@@ -1,14 +1,14 @@
 {
-  "main.css": "/gdoteof/fastai-vision-react-model-inference-ghpages/static/css/main.0801b16a.chunk.css",
-  "main.js": "/gdoteof/fastai-vision-react-model-inference-ghpages/static/js/main.051b2b01.chunk.js",
-  "main.js.map": "/gdoteof/fastai-vision-react-model-inference-ghpages/static/js/main.051b2b01.chunk.js.map",
-  "runtime~main.js": "/gdoteof/fastai-vision-react-model-inference-ghpages/static/js/runtime~main.ccc7299f.js",
-  "runtime~main.js.map": "/gdoteof/fastai-vision-react-model-inference-ghpages/static/js/runtime~main.ccc7299f.js.map",
-  "static/js/2.948d4d77.chunk.js": "/gdoteof/fastai-vision-react-model-inference-ghpages/static/js/2.948d4d77.chunk.js",
-  "static/js/2.948d4d77.chunk.js.map": "/gdoteof/fastai-vision-react-model-inference-ghpages/static/js/2.948d4d77.chunk.js.map",
-  "index.html": "/gdoteof/fastai-vision-react-model-inference-ghpages/index.html",
-  "precache-manifest.42a3b393e70f792072556a025ea35426.js": "/gdoteof/fastai-vision-react-model-inference-ghpages/precache-manifest.42a3b393e70f792072556a025ea35426.js",
-  "service-worker.js": "/gdoteof/fastai-vision-react-model-inference-ghpages/service-worker.js",
-  "static/css/main.0801b16a.chunk.css.map": "/gdoteof/fastai-vision-react-model-inference-ghpages/static/css/main.0801b16a.chunk.css.map",
-  "static/media/logo.svg": "/gdoteof/fastai-vision-react-model-inference-ghpages/static/media/logo.5d5d9eef.svg"
+  "main.css": "/fastai-vision-react-model-inference-ghpages/static/css/main.0801b16a.chunk.css",
+  "main.js": "/fastai-vision-react-model-inference-ghpages/static/js/main.f58ddea9.chunk.js",
+  "main.js.map": "/fastai-vision-react-model-inference-ghpages/static/js/main.f58ddea9.chunk.js.map",
+  "runtime~main.js": "/fastai-vision-react-model-inference-ghpages/static/js/runtime~main.96935697.js",
+  "runtime~main.js.map": "/fastai-vision-react-model-inference-ghpages/static/js/runtime~main.96935697.js.map",
+  "static/js/2.948d4d77.chunk.js": "/fastai-vision-react-model-inference-ghpages/static/js/2.948d4d77.chunk.js",
+  "static/js/2.948d4d77.chunk.js.map": "/fastai-vision-react-model-inference-ghpages/static/js/2.948d4d77.chunk.js.map",
+  "index.html": "/fastai-vision-react-model-inference-ghpages/index.html",
+  "precache-manifest.667b967e0cc9e6e85530404a5f59f1e1.js": "/fastai-vision-react-model-inference-ghpages/precache-manifest.667b967e0cc9e6e85530404a5f59f1e1.js",
+  "service-worker.js": "/fastai-vision-react-model-inference-ghpages/service-worker.js",
+  "static/css/main.0801b16a.chunk.css.map": "/fastai-vision-react-model-inference-ghpages/static/css/main.0801b16a.chunk.css.map",
+  "static/media/logo.svg": "/fastai-vision-react-model-inference-ghpages/static/media/logo.5d5d9eef.svg"
 }
