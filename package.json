@@ -1,6 +1,6 @@
 {
   "name": "fastai-vision-react-model-inference-ghpages",
-  "homepage": "https://github.com/gdoteof/fastai-vision-react-model-inference-ghpages",
+  "homepage": "https://gdoteof.github.io/gdoteof/fastai-vision-react-model-inference-ghpages/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
